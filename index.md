@@ -15,6 +15,7 @@ ScriptShifter is available as a web interface for interactive use and as a REST 
 - [Transliteration table format](https://github.com/lcnetdev/scriptshifter/blob/main/doc/config.md)
 - [Contributing guide](https://github.com/lcnetdev/scriptshifter/blob/main/doc/contributing.md)
 
+
 ### Contents
 
 - [Supported scripts](supported-scripts.md): every script and language ScriptShifter supports, with direction, version and last-updated date.
