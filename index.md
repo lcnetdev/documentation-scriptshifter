@@ -10,7 +10,7 @@ ScriptShifter is available as a web interface for interactive use and as a REST 
 
 - [Use ScriptShifter](https://bibframe.org/scriptshifter/) (live web interface)
 - [Source code on GitHub](https://github.com/lcnetdev/scriptshifter)
-- [Report a problem or request a script](https://github.com/lcnetdev/scriptshifter/issues)
+- [Report a problem](https://github.com/lcnetdev/scriptshifter/issues)
 - [REST API reference](https://github.com/lcnetdev/scriptshifter/blob/main/doc/rest_api.md)
 - [Transliteration table format](https://github.com/lcnetdev/scriptshifter/blob/main/doc/config.md)
 - [Contributing guide](https://github.com/lcnetdev/scriptshifter/blob/main/doc/contributing.md)
